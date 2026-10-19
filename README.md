@@ -73,3 +73,16 @@ VS Code with Jupyter support.
 Set the working directory to the project folder, then run all cells
 from top to bottom. The notebook reads `TFP.xlsx` and `sp500_TR.csv`
 and writes `tfp_sp500_annual.csv`.
+
+
+## AI Use Disclosure
+
+I used ChatGPT and Codex to support Python learning, debugging, PDF-to-CSV conversion, Streamlit interface development, and documentation drafting.
+
+Representative requests included explaining pandas filtering line by line, calculating annual returns from daily index values, and adding interactive year filters and chart tooltips.
+
+I checked the workflow by running the notebook from start to finish, inspecting intermediate tables, checking data types, missing values, duplicate years and dates, and testing the app with full, partial, and single-year selections. The PDF-to-CSV extraction was performed by the AI assistant; I did not independently verify every extracted record against the PDF.
+
+My contributions included choosing the research topic and audience, implementing and running the code with AI guidance, reviewing outputs, testing interactions, and discussing the interpretation and limitations. AI also assisted with interpretation and conclusion wording; I am responsible for independently checking and understanding the submitted claims.
+
+Tool/model versions: [Add the model/version information available in the tools used; if unavailable, state that it was not recorded.]
